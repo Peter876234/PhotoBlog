@@ -1,5 +1,5 @@
 # PhotoBlog
-Web-based photo blog in javascript.
+Web-based photo blog in JAVA.
 
 ## Functions
 - Index page
